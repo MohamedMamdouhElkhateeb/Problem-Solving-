@@ -27,5 +27,7 @@ I would like to express my gratitude to the Codeforces community for providing a
 
 Happy coding! 🚀
 [Mohamed Mamdouh Elkhateeb] 🌟
+
 [mohamedelkateeb2003@gmail.com] 📧
+
 [https://www.linkedin.com/in/mohamed-mamdouh-elkhateeb/] 🔗
