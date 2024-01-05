@@ -26,6 +26,7 @@ Contributions are highly encouraged, and feedback on improvements to existing so
 I would like to express my gratitude to the Codeforces community for providing a platform for continuous learning and improvement. Special thanks to the authors of the problems for creating challenging and engaging exercises.
 
 Happy coding! 🚀
+
 [Mohamed Mamdouh Elkhateeb] 🌟
 
 [mohamedelkateeb2003@gmail.com] 📧
