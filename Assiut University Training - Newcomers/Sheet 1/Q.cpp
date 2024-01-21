@@ -33,10 +33,4 @@ int main() {
         cout<<"Eixo Y";
     }
     else cout<<"Origem";
-        }
-
-
-
-
-
- 
+        } 
