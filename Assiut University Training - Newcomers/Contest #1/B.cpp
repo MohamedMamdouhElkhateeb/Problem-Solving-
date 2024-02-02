@@ -17,7 +17,3 @@ int main() {
     else cout<<"No One";
 
     }
-
-
-
-
