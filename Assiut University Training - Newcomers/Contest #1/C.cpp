@@ -11,6 +11,4 @@ int main() {
     }
     else cout<<'a';
 
-
-
 }
