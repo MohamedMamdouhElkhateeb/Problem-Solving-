@@ -12,10 +12,3 @@ int main() {
   ll res=a^b;
   cout<<res;
 }
-
-
-
-
-
-
- 
