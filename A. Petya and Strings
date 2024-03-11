@@ -1,4 +1,4 @@
-// problem link : 
+// problem link : https://codeforces.com/contest/112/problem/A
 #include <bits/stdc++.h>
 #define endl "\n"
 #define ll long long
